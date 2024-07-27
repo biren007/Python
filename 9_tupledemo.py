@@ -1,0 +1,5 @@
+t=(10,20,"demo","tuple",50)
+print(t[0])
+print(t[3:])
+print(t[:3])
+print(t[-1])
